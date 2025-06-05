@@ -10,7 +10,7 @@
 ### 🛠️ What I'm Working On
 - Exploring the world of **Engineering**
 - Learning and experimenting with **Python** and **MATLAB**
-- Designing with **AutoCAD**, **Fusion 360**, and **Blender**
+- Designing with **AutoCAD**, **Fusion 360** and **Blender**
 - Passionate about fusing mechanical engineering with modern tech
 
 ---
